@@ -1,0 +1,159 @@
+{
+    "schema_version": "1.0",
+    "type": "developer_profile",
+    "name": "Biraj Shrestha",
+    "title": "Software Developer",
+    "summary": "Software developer building backend applications, REST API integrations, automation tools, and systems software.",
+    "contact": {
+      "email": "biraj30stha@gmail.com",
+      "github": "https://github.com/bshresthaa",
+      "linkedin": "https://www.linkedin.com/in/biraj-shrestha-9b7215258/"
+    },
+    "location": "United States",
+    "availability": {
+      "status": "open",
+      "interests": [
+        "Systems Programming",
+        "Backend Development",
+        "Software Engineering",
+        "Infrastructure Engineering"
+      ]
+    },
+    "education": {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Youngstown State University",
+      "graduation": "December 2025",
+      "gpa": 3.72,
+      "minor": "Mathematics"
+    },
+    "skills": {
+      "languages": [
+        "C++",
+        "PHP",
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL"
+      ],
+      "backend": [
+        "REST APIs",
+        "Spring Boot",
+        "Node.js",
+        "API Integrations"
+      ],
+      "databases": [
+        "MySQL",
+        "Oracle",
+        "PL/SQL",
+        "SQL Query Optimization"
+      ],
+      "cloud_and_devops": [
+        "AWS",
+        "Amazon EC2",
+        "Amazon S3",
+        "Amazon CloudWatch",
+        "AWS CodePipeline",
+        "Git",
+        "CI/CD"
+      ],
+      "tools": [
+        "Linux",
+        "GitHub",
+        "Jira",
+        "Docker"
+      ],
+      "ai_and_retrieval": [
+        "Retrieval-Augmented Generation (RAG)",
+        "Vector Search",
+        "Model Context Protocol (MCP)",
+        "Large Language Model Integrations"
+      ]
+    },
+    "experience": [
+      {
+        "company": "CloudRx",
+        "title": "Junior Software Developer",
+        "start_date": "2026-02",
+        "responsibilities": [
+          "Develop and maintain healthcare applications using PHP, JavaScript, and MySQL.",
+          "Integrate third-party healthcare systems through REST APIs.",
+          "Optimize database queries and backend application performance.",
+          "Support AWS-hosted deployments, monitoring, and production troubleshooting.",
+          "Build automation tools and AI-assisted development workflows."
+        ]
+      },
+      {
+        "company": "Youngstown State University",
+        "title": "Student Programmer",
+        "period": "2024-2025",
+        "responsibilities": [
+          "Develop and maintain Banner ERP applications using PL/SQL.",
+          "Build data retrieval and reporting solutions for university departments.",
+          "Participate in requirements gathering, testing, code reviews, and production releases."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "C++ HTTP Server",
+        "category": "Systems Programming",
+        "language": "C++",
+        "topics": [
+          "TCP Sockets",
+          "HTTP Request Handling",
+          "Multithreading",
+          "Thread Pool",
+          "Concurrent Connections"
+        ],
+        "repository": "https://github.com/bshresthaa"
+      },
+      {
+        "name": "ext2 Filesystem Utility",
+        "category": "Systems Programming",
+        "language": "C++",
+        "topics": [
+          "Linux Filesystems",
+          "Filesystem Metadata",
+          "Inodes",
+          "Block Pointers",
+          "Disk Image Parsing"
+        ],
+        "repository": "https://github.com/bshresthaa"
+      },
+      {
+        "name": "LRU File Cache",
+        "category": "Performance Engineering",
+        "language": "C++",
+        "topics": [
+          "Caching",
+          "LRU Eviction",
+          "Data Structures",
+          "Performance Measurement"
+        ],
+        "repository": "https://github.com/bshresthaa"
+      },
+      {
+        "name": "Cliffe AI",
+        "category": "AI Engineering",
+        "topics": [
+          "Retrieval-Augmented Generation",
+          "Semantic Search",
+          "BM25",
+          "Reciprocal Rank Fusion",
+          "Gemini API"
+        ],
+        "description": "A retrieval-based assistant for finding information across the Cliffe College website."
+      }
+    ],
+    "technical_interests": [
+      "Operating Systems",
+      "Computer Networks",
+      "Concurrency",
+      "Backend Architecture",
+      "Performance Optimization",
+      "AI-Assisted Developer Tools",
+      "Reliable Software Systems"
+    ]
+  }
+  
